@@ -1,0 +1,6 @@
+{
+  "challenge_module": "Challenge",
+  "solution_module": "Challenge",
+  "theorem_names": ["one_add_one_eq_three"],
+  "permitted_axioms": []
+}
